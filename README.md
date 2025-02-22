@@ -1,7 +1,7 @@
 ## 🎮 Welcome to My GitHub Arcade! 🚀
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/imagen.png" alt="Mi Banner" width="400">
+  <img src="https://github.com/Universexha/Universexha/blob/main/baner.jpg?raw=true" alt="Mi Banner" width="400">
 </p>
 
 Hey there! I'm **Adriano** 👾, an aspiring **Software Developer & Entrepreneur** ready to take on challenges like a Pokémon trainer and speed through coding like Sonic! 🚀💻
