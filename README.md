@@ -1,3 +1,8 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  background: url('your-retro-background.png');
+}
+
 ## 🎮 Welcome to My GitHub Arcade! 🚀
 
 ```
@@ -20,8 +25,6 @@ Hey there! I'm **Adriano** 👾, an aspiring **Software Developer & Entrepreneur
 ### 🎯 Current Projects
 
 🚧 **[My Portfolio Website](https://github.com/yourusername/portfolio)** - Under construction, but coming soon!  
-🕹 **[Indie Game with Godot](https://github.com/yourusername/game-project)** - A pixel-art game in development  
-🛒 **[E-commerce Clothing Store](https://github.com/yourusername/store)** - Online store for a clothing brand  
 
 ### 🏆 Achievements Unlocked
 
