@@ -10,7 +10,7 @@
 ### 🔥 Player Stats
 
 - 🎮 **Game Mode:** Full Stack Development
-- 🏆 **Skills:** JavaScript, Python, HTML, CSS, React, Node.js, C#, C++
+- 🏆 **Skills:** JavaScript, Python, HTML, CSS, React, Node.js, C#, C++, MongoDB, SQL
 - 🌍 **Location:** Lima, Perú
 - ⚡ **Power-ups:** Problem-Solving, UI/UX
 
