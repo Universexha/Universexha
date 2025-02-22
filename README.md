@@ -1,10 +1,11 @@
 ## 🎮 Welcome to My GitHub Arcade! 🚀
 
-<p align="right">
-  <img src="https://github.com/Universexha/Universexha/blob/main/baner.jpg?raw=true" alt="Mi Banner" width="400">
-</p>
-
-Hey there! I'm **Adriano** 👾, an aspiring **Software Developer & Entrepreneur** ready to take on challenges like a Pokémon trainer and speed through coding like Sonic! 🚀💻
+<div>
+  <img src="https://github.com/Universexha/Universexha/blob/main/baner.jpg?raw=true" alt="Banner" width="300" align="right">
+  <p>
+    Hey there! I'm <strong>Adriano</strong> 🎮, an aspiring <strong>Software Developer & Entrepreneur</strong> ready to take on challenges like a Pokémon trainer and speed through coding like Sonic! 🚀💻
+  </p>
+</div>
 
 ### 🔥 Player Stats
 
