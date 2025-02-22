@@ -1,8 +1,3 @@
-body {
-  font-family: 'Press Start 2P', cursive;
-  background: url('your-retro-background.png');
-}
-
 ## 🎮 Welcome to My GitHub Arcade! 🚀
 
 ```
