@@ -1,5 +1,7 @@
 ## 🎮 Welcome to My GitHub Arcade! 🚀
 
+![Mi Banner](https://github.com/Universexha/Universexha/blob/main/baner.jpg?raw=true)
+
 Hey there! I'm **Adriano** 👾, an aspiring **Software Developer & Entrepreneur** ready to take on challenges like a Pokémon trainer and speed through coding like Sonic! 🚀💻
 
 ### 🔥 Player Stats
